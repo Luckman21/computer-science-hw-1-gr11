@@ -46,4 +46,4 @@ Table of contents:
   Assignment 5: Cumulative Assignment
     Palindrome Checker
     A Knight's Journey
-    Persistence
+    Persistens
