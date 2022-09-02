@@ -2,7 +2,6 @@
 A compilation of all homework assignments from Grade 11 Computer Science.  Written in Python.  Within this repository are 5 assignments, that cover programming basics.
 Table of contents:
 
-
   Assignment 1: Strings and Integers
     Distance Calculator
     Name Caser
@@ -47,3 +46,18 @@ Table of contents:
     Palindrome Checker
     A Knight's Journey
     Persistence
+
+Other Files:
+
+  Bounce: PyGame tutorial on collisions
+  Collision: Part 2 of PyGame tutorial on collisions
+  Functions: Introduction to Methods / Functions
+  Exercise_1-3: User Input
+  Hoemwork_4: String Operations
+  Homework_6: Modulo Operator (Emulate coins)
+  Homework_10: Conditionals
+  Homework_11: break statements (homework)
+  Lesson_11: break statements (lesson)
+  Loop_Extra_Exercises: (Assignment 3 Modified)
+  OntarioSciCenter: Interactive menu for Ontario Science Center ticketing
+  PyGame_Test: Tutorial on the basics of PyGame
